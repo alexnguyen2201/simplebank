@@ -14,3 +14,5 @@ packages:
     # accounts table -> Account struct (without 's') - false
     # - better becasue prevent confuse with multiple objects
     # accounts table -> Accounts struct (has 's') - true
+    emit_empty_slices: true
+    # init array of Object with value [] instead of nil
