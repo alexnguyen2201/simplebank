@@ -3,3 +3,4 @@
 ## Techstack
 - Golang
 - Postgresql
+- CI
