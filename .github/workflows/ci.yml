@@ -31,10 +31,10 @@ jobs:
 
     steps:
       - name: Check out code into the Go module directory
-      - uses: actions/checkout@v3
+        uses: actions/checkout@v3
 
       - name: Run migrations
-      - uses: make migrateup
+        uses: make migrateup
 
       - name: Set up Go
         uses: actions/setup-go@v3
