@@ -4,3 +4,5 @@
 - Golang
 - Postgresql
 - CI
+- Kubernetes
+- gRPC
