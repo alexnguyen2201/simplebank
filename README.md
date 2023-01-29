@@ -6,3 +6,4 @@
 - CI
 - Kubernetes
 - gRPC
+- AWS
