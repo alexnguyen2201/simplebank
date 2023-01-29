@@ -7,4 +7,3 @@
 - Kubernetes
 - gRPC
 - AWS
-- git action
